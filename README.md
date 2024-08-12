@@ -11,3 +11,9 @@ You'll be refactoring code from an SMS text classification solution into a funct
 3. You won 2 free tickets to the Super Bowl. Text us to claim your prize.
 4. Thanks for registering. Text 4343 to receive free updates on medicare.
 ```
+```
+['ham']
+['ham']
+['spam']
+['spam']
+```
