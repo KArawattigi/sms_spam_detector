@@ -1,0 +1,10 @@
+2024-08-12 00:29:13.321276,<gradio.components.textbox.Textbox object at 0x000002162376ED70>,<gradio.components.textbox.Textbox object at 0x000002162376DE40>
+2024-08-12 00:34:51.243730,<gradio.components.textbox.Textbox object at 0x00000216238D3280>,<gradio.components.textbox.Textbox object at 0x00000216238FECE0>
+2024-08-12 00:37:06.768201,<gradio.components.textbox.Textbox object at 0x00000216239A6650>,<gradio.components.textbox.Textbox object at 0x00000216239A4F70>
+2024-08-12 00:39:22.443694,abc,"The text message: ""abc"", is not spam."
+2024-08-12 00:39:32.217519,abc,"The text message: ""abc"", is not spam."
+2024-08-12 00:42:14.412214,Welcome to the Super Bowl.,"The text message: ""Welcome to the Super Bowl."", is not spam."
+2024-08-12 00:57:40.755339,You are a lucky winner of $5000!,"The text message: ""You are a lucky winner of $5000!"", is not spam."
+2024-08-12 00:58:03.280413,You won 2 free tickets to the Super Bowl.,"The text message: ""You won 2 free tickets to the Super Bowl."", is not spam."
+2024-08-12 00:58:28.539849,You won 2 free tickets to the Super Bowl text us to claim your prize,"The text message: "You won 2 free tickets to the Super Bowl text us to claim your prize", is spam."
+2024-08-12 00:58:55.197489,Thanks for registering. Text 4343 to receive free updates on medicar,"The text message: ""Thanks for registering. Text 4343 to receive free updates on medicar"", is spam."
